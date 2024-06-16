@@ -1,6 +1,9 @@
 {
-  "name": "landing",
+  "name": "www",
   "version": "0.1.0",
+  "description": "Demonstrating DevOps Website",
+  "homepage": "https://www.a9ile.com",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",
